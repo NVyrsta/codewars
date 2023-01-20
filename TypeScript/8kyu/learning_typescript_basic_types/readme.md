@@ -1,10 +1,10 @@
 # DESCRIPTION:
-Learning TypeScript. Basic Types
+# Learning TypeScript. Basic Types
 ## Overview
 In this kata you'll get familiar with TypeScript's basic types.
 If you have problems solving this kata please refer to this article: https://www.typescriptlang.org/docs/handbook/basic-types.html
 
-# Task
+## Task
 ### Boolean
 * Export var1Boolean variable of boolean type with value true.
 ### Number
