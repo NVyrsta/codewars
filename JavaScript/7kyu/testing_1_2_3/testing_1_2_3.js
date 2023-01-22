@@ -1,5 +1,5 @@
 function number(array) {
-  return array.reduce((acc, item, ind, arr) => {
+  return array.reduce((acc, item, ind) => {
     acc.push(`${ind + 1}: ${item}`);
     return acc;
   }, []);
