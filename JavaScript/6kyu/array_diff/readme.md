@@ -1,4 +1,4 @@
-# Array.diff
+# 6 kyu Array.diff
 
 Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result.
 

@@ -1,6 +1,5 @@
 # 7 kyu Sum of odd numbers
 
-
 ## DESCRIPTION:
 Given the triangle of consecutive odd numbers:
 
