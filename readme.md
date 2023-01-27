@@ -4,3 +4,4 @@
 
 
 **P.S.**  __I will also be glad to see your solutions :)__
+[`code`](#code)
