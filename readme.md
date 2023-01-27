@@ -4,4 +4,4 @@
 
 
 **P.S.**  __I will also be glad to see your solutions :)__
-[`code`](#code)
+[`code`](https://github.com/NVyrsta/codewars/tree/main/JavaScript/8kyu/opposites_attract)
